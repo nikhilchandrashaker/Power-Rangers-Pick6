@@ -1,0 +1,155 @@
+id,character,season,year,ranger_color,form,primary_role,rarity,overall,draft_value,power,speed,combat,weapon,durability,intelligence,leadership,teamwork,experience,courage,special,team_slot_hint,pick6_eligible,era,role_focus,role_focus_value,chemistry_team_id,same_team_synergy,same_era_synergy,cross_team_synergy,offense_score,defense_score,support_score,clutch_score,archetype_tags
+MIG-001,Jason Lee Scott,Mighty Morphin,1993,Red,MMPR Red,Leader,Elite,90,93,91,84,94,91,89,80,95,92,90,96,89,Leadership,True,MMPR Era,leadership,95,MIGHTY_MORPHIN,6,3,0,91,91,88,94,Captain
+MIG-002,Zack Taylor,Mighty Morphin,1993,Black,MMPR Black,Fighter,Rare,89,90,86,95,93,94,86,78,84,92,87,94,90,Combat,True,MMPR Era,combat,93,MIGHTY_MORPHIN,6,3,0,91,88,86,90,Speed
+MIG-003,Billy Cranston,Mighty Morphin,1993,Blue,MMPR Blue,Genius,Uncommon,81,83,70,74,72,76,72,99,83,95,84,86,91,Intelligence,True,MMPR Era,intelligence,99,MIGHTY_MORPHIN,6,3,0,72,78,94,82,Genius
+MIG-004,Trini Kwan,Mighty Morphin,1993,Yellow,MMPR Yellow,Fighter,Rare,87,88,78,90,91,88,81,84,84,94,86,95,89,Combat,True,MMPR Era,combat,91,MIGHTY_MORPHIN,6,3,0,86,85,88,90,Balanced
+MIG-005,Kimberly Hart,Mighty Morphin,1993,Pink,MMPR Pink,Specialist,Rare,86,88,74,92,87,92,79,85,81,92,82,93,91,Special,True,MMPR Era,special,91,MIGHTY_MORPHIN,6,3,0,85,83,88,87,Balanced
+MIG-006,Tommy Oliver,Mighty Morphin,1993,Green,MMPR Green,Sixth,Elite,94,96,94,91,98,97,94,86,94,94,94,98,96,Flex,True,MMPR Era,special,96,MIGHTY_MORPHIN,6,3,0,96,95,92,96,"Captain, Elite Fighter, Powerhouse"
+MIG-007,Tommy Oliver,Mighty Morphin,1995,White,MMPR White,Leader,Legendary,96,99,96,92,99,98,96,88,98,96,97,99,98,Leadership,True,MMPR Era,leadership,98,MIGHTY_MORPHIN,6,3,0,97,97,94,98,"Captain, Elite Fighter, Tank, Powerhouse, Glue, Veteran"
+MIG-008,Rocky DeSantos,Mighty Morphin,1994,Red,MMPR Red (2nd Red),Fighter,Rare,86,87,87,82,90,88,86,76,84,88,84,92,86,Combat,True,MMPR Era,combat,90,MIGHTY_MORPHIN,6,3,0,87,88,83,88,Balanced
+MIG-009,Adam Park,Mighty Morphin,1994,Black,MMPR Black (2nd Black),Fighter,Elite,90,91,85,91,94,93,86,82,88,94,89,95,91,Combat,True,MMPR Era,combat,94,MIGHTY_MORPHIN,6,3,0,91,89,89,92,Balanced
+MIG-010,Aisha Campbell,Mighty Morphin,1994,Yellow,MMPR Yellow (2nd Yellow),Fighter,Rare,87,88,83,88,91,87,84,80,84,92,87,94,88,Combat,True,MMPR Era,combat,91,MIGHTY_MORPHIN,6,3,0,87,87,86,90,Balanced
+MIG-011,Katherine Hillard,Mighty Morphin,1995,Pink,MMPR Pink (2nd Pink),Specialist,Rare,87,89,76,91,89,91,81,86,87,93,86,94,90,Special,True,MMPR Era,special,90,MIGHTY_MORPHIN,6,3,0,86,84,89,90,Balanced
+ALI-012,Aurico,Alien Rangers,1996,Red,Aquitar Red,Leader,Elite,91,94,90,87,93,91,94,82,92,91,95,97,92,Leadership,True,MMPR Era,leadership,92,ALIEN_RANGERS,6,3,0,91,93,89,95,Captain
+ALI-013,Delphine,Alien Rangers,1996,White,Aquitar White,Leader,Elite,91,94,88,89,92,90,92,84,91,91,95,96,91,Leadership,True,MMPR Era,leadership,91,ALIEN_RANGERS,6,3,0,90,92,89,94,Balanced
+ALI-014,Cestro,Alien Rangers,1996,Blue,Aquitar Blue,Genius,Rare,87,89,78,84,86,85,88,94,82,93,94,91,90,Intelligence,True,MMPR Era,intelligence,94,ALIEN_RANGERS,6,3,0,83,87,91,90,Balanced
+ALI-015,Tideus,Alien Rangers,1996,Yellow,Aquitar Yellow,Fighter,Rare,88,89,84,90,90,88,91,80,83,91,94,94,89,Combat,True,MMPR Era,combat,90,ALIEN_RANGERS,6,3,0,88,90,86,92,Balanced
+ALI-016,Corcus,Alien Rangers,1996,Black,Aquitar Black,Fighter,Rare,88,89,87,83,91,89,93,79,84,90,94,95,90,Combat,True,MMPR Era,combat,91,ALIEN_RANGERS,6,3,0,88,92,86,92,Balanced
+ZEO-017,Tommy Oliver,Zeo,1996,Red,Zeo Ranger V,Leader,Legendary,96,99,96,91,98,97,97,89,98,97,98,99,99,Leadership,True,MMPR Era,leadership,98,ZEO,6,3,0,96,97,95,98,"Captain, Elite Fighter, Tank, Powerhouse, Glue, Veteran"
+ZEO-018,Adam Park,Zeo,1996,Green,Zeo Ranger IV,Fighter,Elite,92,93,89,92,96,95,91,84,90,96,93,97,94,Combat,True,MMPR Era,combat,96,ZEO,6,3,0,93,93,91,95,"Elite Fighter, Glue"
+ZEO-019,Rocky DeSantos,Zeo,1996,Blue,Zeo Ranger III,Fighter,Rare,88,89,88,84,92,90,89,78,85,91,90,94,91,Combat,True,MMPR Era,combat,92,ZEO,6,3,0,89,90,86,91,Balanced
+ZEO-020,Tanya Sloan,Zeo,1996,Yellow,Zeo Ranger II,Specialist,Rare,87,89,81,88,89,87,86,83,86,92,88,94,89,Special,True,MMPR Era,special,89,ZEO,6,3,0,86,88,88,90,Balanced
+ZEO-021,Katherine Hillard,Zeo,1996,Pink,Zeo Ranger I,Specialist,Elite,90,92,82,93,92,93,86,87,91,94,90,96,92,Special,True,MMPR Era,special,92,ZEO,6,3,0,89,88,91,93,Balanced
+ZEO-022,Jason Lee Scott,Zeo,1996,Gold,Gold Ranger,Sixth,Elite,94,96,95,88,97,96,96,82,94,93,98,99,97,Flex,True,MMPR Era,special,97,ZEO,6,3,0,95,96,91,98,"Captain, Elite Fighter, Tank, Powerhouse, Veteran"
+TUR-023,Tommy Oliver,Turbo,1997,Red,Red Turbo,Leader,Elite,93,96,92,88,95,94,92,86,94,93,98,98,95,Leadership,True,MMPR Era,leadership,94,TURBO,6,3,0,93,93,91,97,"Captain, Elite Fighter, Veteran"
+TUR-024,T.J. Johnson,Turbo,1997,Red,Red Turbo,Leader,Elite,91,94,90,87,94,93,91,82,92,94,91,97,94,Leadership,True,MMPR Era,leadership,92,TURBO,6,3,0,92,92,90,94,Captain
+TUR-025,Justin Stewart,Turbo,1997,Blue,Blue Turbo,Genius,Uncommon,83,85,76,84,84,85,79,91,78,89,78,90,87,Intelligence,True,MMPR Era,intelligence,91,TURBO,6,3,0,82,82,88,83,Balanced
+TUR-026,Adam Park,Turbo,1997,Green,Green Turbo,Fighter,Elite,91,92,87,91,94,93,88,83,88,94,95,97,92,Combat,True,MMPR Era,combat,94,TURBO,6,3,0,91,90,89,94,Balanced
+TUR-027,Carlos Vallerte,Turbo,1997,Green,Green Turbo,Fighter,Rare,89,90,86,90,93,92,87,80,85,93,88,96,90,Combat,True,MMPR Era,combat,93,TURBO,6,3,0,90,90,87,91,Balanced
+TUR-028,Tanya Sloan,Turbo,1997,Yellow,Yellow Turbo,Specialist,Rare,88,90,82,89,91,88,84,84,87,93,91,95,90,Special,True,MMPR Era,special,90,TURBO,6,3,0,87,87,89,92,Balanced
+TUR-029,Ashley Hammond,Turbo,1997,Yellow,Yellow Turbo,Specialist,Rare,87,89,80,91,89,90,82,83,84,92,88,94,89,Special,True,MMPR Era,special,89,TURBO,6,3,0,87,86,87,90,Balanced
+TUR-030,Katherine Hillard,Turbo,1997,Pink,Pink Turbo,Specialist,Elite,90,92,81,92,91,92,84,86,88,94,93,96,91,Special,True,MMPR Era,special,91,TURBO,6,3,0,88,87,90,93,Balanced
+TUR-031,Cassie Chan,Turbo,1997,Pink,Pink Turbo,Specialist,Rare,89,91,80,91,93,92,85,82,86,94,89,96,91,Special,True,MMPR Era,special,91,TURBO,6,3,0,89,88,89,92,Balanced
+TUR-032,Phantom Ranger,Turbo,1997,Black,Phantom Ranger,Specialist,Elite,94,96,96,94,98,98,97,91,88,82,99,99,99,Special,True,MMPR Era,special,99,TURBO,6,3,0,97,95,89,97,"Elite Fighter, Tank, Powerhouse, Veteran"
+IN -033,Andros,In Space,1998,Red,Red Space,Leader,Legendary,95,98,93,90,97,96,94,94,96,92,99,99,98,Leadership,True,Post-MMPR Era,leadership,96,IN_SPACE,6,3,0,95,94,94,98,"Captain, Elite Fighter, Powerhouse, Veteran"
+IN -034,T.J. Johnson,In Space,1998,Blue,Blue Space,Fighter,Elite,91,92,87,88,94,92,88,82,89,94,95,98,93,Combat,True,Post-MMPR Era,combat,94,IN_SPACE,6,3,0,91,91,89,95,Balanced
+IN -035,Carlos Vallerte,In Space,1998,Black,Black Space,Fighter,Elite,90,91,87,90,94,93,89,81,86,94,92,97,92,Combat,True,Post-MMPR Era,combat,94,IN_SPACE,6,3,0,91,91,89,93,Balanced
+IN -036,Ashley Hammond,In Space,1998,Yellow,Yellow Space,Specialist,Rare,89,91,82,92,91,91,85,83,86,94,91,96,91,Special,True,Post-MMPR Era,special,91,IN_SPACE,6,3,0,88,88,89,92,Balanced
+IN -037,Cassie Chan,In Space,1998,Pink,Pink Space,Specialist,Elite,90,92,83,92,94,93,86,84,87,95,93,97,92,Special,True,Post-MMPR Era,special,92,IN_SPACE,6,3,0,90,89,90,94,Balanced
+IN -038,Zhane,In Space,1998,Silver,Silver Space,Sixth,Legendary,95,97,94,95,97,98,95,88,91,91,98,99,98,Flex,True,Post-MMPR Era,special,98,IN_SPACE,6,3,0,96,95,92,97,"Elite Fighter, Speed, Tank, Powerhouse, Veteran"
+LOS-039,Leo Corbett,Lost Galaxy,1999,Red,Galaxy Red,Leader,Elite,92,95,91,87,95,94,92,79,93,93,92,98,94,Leadership,True,Post-MMPR Era,leadership,93,LOST_GALAXY,6,3,0,92,93,89,95,"Captain, Elite Fighter"
+LOS-040,Kai Chen,Lost Galaxy,1999,Blue,Galaxy Blue,Specialist,Elite,91,93,85,90,93,94,89,88,88,95,93,97,93,Special,True,Post-MMPR Era,special,93,LOST_GALAXY,6,3,0,90,91,91,94,Balanced
+LOS-041,Damon Henderson,Lost Galaxy,1999,Green,Galaxy Green,Genius,Elite,90,92,84,87,92,93,88,91,86,94,91,96,92,Intelligence,True,Post-MMPR Era,intelligence,91,LOST_GALAXY,6,3,0,89,90,92,92,Balanced
+LOS-042,Kendrix Morgan,Lost Galaxy,1999,Pink,Galaxy Pink,Genius,Rare,89,91,78,88,87,90,84,93,88,95,91,97,91,Intelligence,True,Post-MMPR Era,intelligence,93,LOST_GALAXY,6,3,0,85,87,93,92,Balanced
+LOS-043,Karone,Lost Galaxy,1999,Pink,Galaxy Pink,Specialist,Elite,93,95,86,93,96,96,90,85,91,94,94,99,96,Special,True,Post-MMPR Era,special,96,LOST_GALAXY,6,3,0,93,92,91,96,"Elite Fighter, Powerhouse"
+LOS-044,Maya,Lost Galaxy,1999,Yellow,Galaxy Yellow,Fighter,Elite,90,91,88,91,94,92,91,80,84,94,90,97,92,Combat,True,Post-MMPR Era,combat,94,LOST_GALAXY,6,3,0,91,92,88,92,Balanced
+LOS-045,Mike Corbett,Lost Galaxy,1999,Black,Magna Defender,Tank,Elite,92,93,97,79,96,96,99,79,88,89,96,99,98,Power/Defense,True,Post-MMPR Era,durability,99,LOST_GALAXY,6,3,0,94,97,88,96,"Elite Fighter, Tank, Powerhouse, Veteran"
+LIG-046,Carter Grayson,Lightspeed Rescue,2000,Red,Lightspeed Red,Leader,Elite,92,95,92,82,96,95,94,77,96,91,92,99,95,Leadership,True,Post-MMPR Era,leadership,96,LIGHTSPEED_RESCUE,6,3,0,92,94,88,96,"Captain, Elite Fighter"
+LIG-047,Chad Lee,Lightspeed Rescue,2000,Blue,Lightspeed Blue,Fighter,Elite,91,92,87,92,95,94,91,80,87,93,91,97,93,Combat,True,Post-MMPR Era,combat,95,LIGHTSPEED_RESCUE,6,3,0,92,92,88,93,Elite Fighter
+LIG-048,Joel Rawlings,Lightspeed Rescue,2000,Green,Lightspeed Green,Specialist,Rare,89,91,84,89,92,94,88,81,84,91,89,95,91,Special,True,Post-MMPR Era,special,91,LIGHTSPEED_RESCUE,6,3,0,90,89,87,91,Balanced
+LIG-049,Kelsey Winslow,Lightspeed Rescue,2000,Yellow,Lightspeed Yellow,Speedster,Rare,88,89,80,96,91,91,84,79,82,93,87,96,91,Speed,True,Post-MMPR Era,speed,96,LIGHTSPEED_RESCUE,6,3,0,88,87,87,90,Speed
+LIG-050,Dana Mitchell,Lightspeed Rescue,2000,Pink,Lightspeed Pink,Support,Rare,89,90,78,89,90,91,84,92,87,95,89,96,91,Team Support,True,Post-MMPR Era,teamwork,95,LIGHTSPEED_RESCUE,6,3,0,86,87,92,91,Balanced
+LIG-051,Ryan Mitchell,Lightspeed Rescue,2000,Titanium,Titanium Ranger,Sixth,Elite,93,95,94,88,97,97,96,87,91,88,94,99,97,Flex,True,Post-MMPR Era,special,97,LIGHTSPEED_RESCUE,6,3,0,95,95,90,96,"Elite Fighter, Tank, Powerhouse"
+TIM-052,Wesley Collins,Time Force,2001,Red,Time Force Red,Leader,Elite,94,97,92,91,97,96,94,86,95,95,94,99,97,Leadership,True,Post-MMPR Era,leadership,95,TIME_FORCE,6,3,0,94,95,93,96,"Captain, Elite Fighter, Powerhouse"
+TIM-053,Lucas Kendall,Time Force,2001,Blue,Time Force Blue,Speedster,Elite,92,93,87,98,95,94,91,84,88,94,94,97,94,Speed,True,Post-MMPR Era,speed,98,TIME_FORCE,6,3,0,93,92,90,94,"Elite Fighter, Speed"
+TIM-054,Katie Walker,Time Force,2001,Yellow,Time Force Yellow,Tank,Elite,92,93,97,82,94,92,98,78,86,94,94,99,96,Power/Defense,True,Post-MMPR Era,durability,98,TIME_FORCE,6,3,0,93,97,88,95,"Tank, Powerhouse"
+TIM-055,Trip Regis,Time Force,2001,Green,Time Force Green,Genius,Elite,91,93,79,89,91,91,85,98,89,97,92,97,94,Intelligence,True,Post-MMPR Era,intelligence,98,TIME_FORCE,6,3,0,87,88,95,93,"Genius, Glue"
+TIM-056,Jen Scotts,Time Force,2001,Pink,Time Force Pink,Leader,Legendary,95,98,86,94,97,97,90,91,96,96,99,99,98,Leadership,True,Post-MMPR Era,leadership,96,TIME_FORCE,6,3,0,93,92,95,98,"Captain, Elite Fighter, Powerhouse, Glue, Veteran"
+TIM-057,Eric Myers,Time Force,2001,Quantum,Quantum Ranger,Sixth,Elite,94,96,98,92,99,99,98,85,89,82,96,99,99,Flex,True,Post-MMPR Era,special,99,TIME_FORCE,6,3,0,98,96,87,97,"Elite Fighter, Tank, Powerhouse, Veteran"
+WIL-058,Cole Evans,Wild Force,2002,Red,Wild Force Red,Fighter,Elite,92,93,94,90,97,95,96,74,89,92,91,99,96,Combat,True,Post-MMPR Era,combat,97,WILD_FORCE,6,3,0,95,96,87,95,"Elite Fighter, Tank, Powerhouse"
+WIL-059,Max Cooper,Wild Force,2002,Blue,Wild Force Blue,Fighter,Rare,89,90,87,88,92,91,90,79,84,93,88,95,90,Combat,True,Post-MMPR Era,combat,92,WILD_FORCE,6,3,0,90,91,87,91,Balanced
+WIL-060,Danny Delgado,Wild Force,2002,Black,Wild Force Black,Tank,Rare,89,90,96,79,94,92,97,72,83,94,88,96,93,Power/Defense,True,Post-MMPR Era,durability,97,WILD_FORCE,6,3,0,92,96,86,91,Tank
+WIL-061,Taylor Earhardt,Wild Force,2002,Yellow,Wild Force Yellow,Leader,Elite,92,95,88,91,96,95,92,83,94,94,91,98,95,Leadership,True,Post-MMPR Era,leadership,94,WILD_FORCE,6,3,0,93,93,91,95,"Captain, Elite Fighter"
+WIL-062,Alyssa Enrile,Wild Force,2002,White,Wild Force White,Specialist,Elite,91,93,82,93,92,93,87,88,89,95,90,97,93,Special,True,Post-MMPR Era,special,93,WILD_FORCE,6,3,0,89,89,92,93,Balanced
+WIL-063,Merrick Baliton,Wild Force,2002,Silver,Lunar Wolf Ranger,Sixth,Elite,94,96,94,92,98,97,95,85,89,88,99,99,98,Flex,True,Post-MMPR Era,special,98,WILD_FORCE,6,3,0,96,95,89,97,"Elite Fighter, Tank, Powerhouse, Veteran"
+NIN-064,Shane Clarke,Ninja Storm,2003,Red,Red Wind,Speedster,Elite,91,92,87,98,95,94,88,79,88,92,88,97,94,Speed,True,Post-MMPR Era,speed,98,NINJA_STORM,6,3,0,93,90,88,93,"Elite Fighter, Speed"
+NIN-065,Tori Hanson,Ninja Storm,2003,Blue,Blue Wind,Speedster,Elite,90,91,83,96,93,92,87,84,86,94,87,96,92,Speed,True,Post-MMPR Era,speed,96,NINJA_STORM,6,3,0,90,89,89,91,Speed
+NIN-066,Dustin Brooks,Ninja Storm,2003,Yellow,Yellow Wind,Specialist,Rare,88,90,82,94,91,92,85,78,82,94,84,95,90,Special,True,Post-MMPR Era,special,90,NINJA_STORM,6,3,0,89,88,87,89,Balanced
+NIN-067,Hunter Bradley,Ninja Storm,2003,Crimson,Crimson Thunder,Fighter,Elite,93,94,94,91,98,97,95,82,91,91,91,98,96,Combat,True,Post-MMPR Era,combat,98,NINJA_STORM,6,3,0,96,95,89,95,"Elite Fighter, Tank, Powerhouse"
+NIN-068,Blake Bradley,Ninja Storm,2003,Navy,Navy Thunder,Fighter,Elite,93,94,93,92,98,97,94,83,90,92,91,98,96,Combat,True,Post-MMPR Era,combat,98,NINJA_STORM,6,3,0,95,94,90,95,"Elite Fighter, Powerhouse"
+NIN-069,Cam Watanabe,Ninja Storm,2003,Green,Green Samurai,Genius,Elite,94,96,86,91,95,97,89,98,92,96,93,98,97,Intelligence,True,Post-MMPR Era,intelligence,98,NINJA_STORM,6,3,0,92,91,96,95,"Captain, Elite Fighter, Genius, Powerhouse, Glue"
+DIN-070,Conner McKnight,Dino Thunder,2004,Red,Dino Red,Fighter,Elite,90,91,91,87,95,94,94,73,85,92,88,97,93,Combat,True,Post-MMPR Era,combat,95,DINO_THUNDER,6,3,0,92,94,85,92,Elite Fighter
+DIN-071,Ethan James,Dino Thunder,2004,Blue,Dino Blue,Genius,Rare,88,90,82,85,88,90,87,95,82,94,88,94,91,Intelligence,True,Post-MMPR Era,intelligence,95,DINO_THUNDER,6,3,0,86,88,92,89,Genius
+DIN-072,Kira Ford,Dino Thunder,2004,Yellow,Dino Yellow,Specialist,Elite,90,92,81,91,93,94,88,86,86,95,89,98,93,Special,True,Post-MMPR Era,special,93,DINO_THUNDER,6,3,0,89,90,91,92,Balanced
+DIN-073,Tommy Oliver,Dino Thunder,2004,Black,Dino Black,Leader,Legendary,97,99,96,92,99,98,97,96,99,98,99,99,99,Leadership,True,Post-MMPR Era,leadership,99,DINO_THUNDER,6,3,0,97,97,98,99,"Captain, Elite Fighter, Genius, Tank, Powerhouse, Glue, Veteran"
+DIN-074,Trent Fernandez-Mercer,Dino Thunder,2004,White,Dino White,Sixth,Legendary,95,97,95,94,98,99,96,88,90,91,94,99,97,Flex,True,Post-MMPR Era,special,97,DINO_THUNDER,6,3,0,97,96,91,96,"Elite Fighter, Tank, Powerhouse"
+S.P-075,Jack Landors,S.P.D.,2005,Red,B-Squad Red,Leader,Elite,91,94,87,90,94,93,89,81,91,94,89,97,92,Leadership,True,Post-MMPR Era,leadership,91,S.P.D.,6,3,0,91,91,89,93,Balanced
+S.P-076,Sky Tate,S.P.D.,2005,Blue,B-Squad Blue,Specialist,Elite,93,95,89,91,96,95,92,87,95,95,94,98,96,Special,True,Post-MMPR Era,special,96,S.P.D.,6,3,0,93,93,93,96,"Captain, Elite Fighter, Powerhouse"
+S.P-077,Bridge Carson,S.P.D.,2005,Green,B-Squad Green,Genius,Elite,90,92,82,88,91,92,87,94,88,96,92,96,93,Intelligence,True,Post-MMPR Era,intelligence,94,S.P.D.,6,3,0,88,89,94,93,Glue
+S.P-078,Z Delgado,S.P.D.,2005,Yellow,B-Squad Yellow,Specialist,Elite,91,93,84,92,94,93,89,86,88,96,92,97,94,Special,True,Post-MMPR Era,special,94,S.P.D.,6,3,0,90,91,91,94,Glue
+S.P-079,Sydney Drew,S.P.D.,2005,Pink,B-Squad Pink,Specialist,Rare,89,91,80,91,91,92,86,84,87,95,90,96,92,Special,True,Post-MMPR Era,special,92,S.P.D.,6,3,0,88,88,90,92,Balanced
+S.P-080,Sam,S.P.D.,2005,Omega,Omega Ranger,Sixth,Legendary,95,97,93,97,97,97,95,92,88,90,96,99,98,Flex,True,Post-MMPR Era,special,98,S.P.D.,6,3,0,96,95,92,96,"Elite Fighter, Speed, Tank, Powerhouse, Veteran"
+S.P-081,Anubis Cruger,S.P.D.,2005,Shadow,Shadow Ranger,Sixth,Legendary,97,99,96,90,99,99,98,93,99,97,99,99,99,Flex,True,Post-MMPR Era,special,99,S.P.D.,6,3,0,97,98,96,99,"Captain, Elite Fighter, Tank, Powerhouse, Glue, Veteran"
+MYS-082,Nick Russell,Mystic Force,2006,Red,Mystic Red,Leader,Elite,91,94,91,88,94,93,91,84,92,91,88,97,96,Leadership,True,Post-MMPR Era,leadership,92,MYSTIC_FORCE,6,3,0,92,92,90,93,"Captain, Powerhouse"
+MYS-083,Xander Bly,Mystic Force,2006,Green,Mystic Green,Specialist,Rare,89,91,89,84,92,94,91,82,85,92,86,95,91,Special,True,Post-MMPR Era,special,91,MYSTIC_FORCE,6,3,0,90,92,88,90,Balanced
+MYS-084,Chip Thorn,Mystic Force,2006,Yellow,Mystic Yellow,Specialist,Rare,89,91,81,90,91,93,87,88,83,94,85,97,92,Special,True,Post-MMPR Era,special,92,MYSTIC_FORCE,6,3,0,88,89,90,90,Balanced
+MYS-085,Madison Rocca,Mystic Force,2006,Blue,Mystic Blue,Support,Rare,88,89,79,88,88,91,84,91,86,95,85,95,91,Team Support,True,Post-MMPR Era,teamwork,95,MYSTIC_FORCE,6,3,0,86,87,92,89,Balanced
+MYS-086,Vida Rocca,Mystic Force,2006,Pink,Mystic Pink,Speedster,Elite,90,91,82,94,93,94,87,82,86,94,86,97,92,Speed,True,Post-MMPR Era,speed,94,MYSTIC_FORCE,6,3,0,90,89,89,91,Balanced
+MYS-087,Daggeron,Mystic Force,2006,Solaris,Solaris Knight,Sixth,Legendary,96,98,95,92,98,99,96,91,96,92,99,99,98,Flex,True,Post-MMPR Era,special,98,MYSTIC_FORCE,6,3,0,96,96,94,98,"Captain, Elite Fighter, Tank, Powerhouse, Veteran"
+MYS-088,Udonna,Mystic Force,2006,White,White Mystic Ranger,Specialist,Elite,93,95,92,82,91,95,94,97,94,91,99,98,98,Special,True,Post-MMPR Era,special,98,MYSTIC_FORCE,6,3,0,91,94,95,96,"Captain, Genius, Powerhouse, Veteran"
+OPE-089,Mack Hartford,Operation Overdrive,2007,Red,Overdrive Red,Leader,Elite,91,94,89,87,93,94,91,88,91,90,87,96,93,Leadership,True,Post-MMPR Era,leadership,91,OPERATION_OVERDRIVE,6,3,0,91,91,90,92,Balanced
+OPE-090,Dax Lo,Operation Overdrive,2007,Blue,Overdrive Blue,Speedster,Rare,88,89,82,96,90,91,86,79,82,92,83,95,90,Speed,True,Post-MMPR Era,speed,96,OPERATION_OVERDRIVE,6,3,0,89,88,86,88,Speed
+OPE-091,Ronny Robinson,Operation Overdrive,2007,Yellow,Overdrive Yellow,Speedster,Rare,89,90,83,99,92,93,87,81,84,92,84,96,92,Speed,True,Post-MMPR Era,speed,99,OPERATION_OVERDRIVE,6,3,0,91,89,88,90,Speed
+OPE-092,Will Aston,Operation Overdrive,2007,Black,Overdrive Black,Specialist,Elite,91,93,86,94,93,95,89,89,88,92,86,96,92,Special,True,Post-MMPR Era,special,92,OPERATION_OVERDRIVE,6,3,0,91,90,90,91,Balanced
+OPE-093,Rose Ortiz,Operation Overdrive,2007,Pink,Overdrive Pink,Genius,Rare,89,91,79,89,89,92,85,96,87,94,87,96,92,Intelligence,True,Post-MMPR Era,intelligence,96,OPERATION_OVERDRIVE,6,3,0,87,87,93,91,Genius
+OPE-094,Tyzonn,Operation Overdrive,2007,Mercury,Mercury Ranger,Sixth,Elite,94,96,93,93,97,98,96,89,91,91,94,99,97,Flex,True,Post-MMPR Era,special,97,OPERATION_OVERDRIVE,6,3,0,95,95,92,96,"Elite Fighter, Tank, Powerhouse"
+JUN-095,Casey Rhodes,Jungle Fury,2008,Red,Jungle Fury Red,Fighter,Elite,92,93,91,92,97,96,93,78,89,95,88,99,95,Combat,True,Post-MMPR Era,combat,97,JUNGLE_FURY,6,3,0,94,94,89,94,Elite Fighter
+JUN-096,Theo Martin,Jungle Fury,2008,Blue,Jungle Fury Blue,Genius,Elite,92,94,84,90,94,95,89,94,88,95,89,97,94,Intelligence,True,Post-MMPR Era,intelligence,94,JUNGLE_FURY,6,3,0,91,91,93,93,Balanced
+JUN-097,Lily Chilman,Jungle Fury,2008,Yellow,Jungle Fury Yellow,Specialist,Elite,90,92,83,93,93,94,90,81,86,96,87,97,93,Special,True,Post-MMPR Era,special,93,JUNGLE_FURY,6,3,0,90,91,89,92,Glue
+JUN-098,Robert 'R.J.' James,Jungle Fury,2008,Purple,Wolf Ranger,Sixth,Legendary,95,97,93,94,98,98,96,92,94,95,94,99,97,Flex,True,Post-MMPR Era,special,97,JUNGLE_FURY,6,3,0,96,96,94,97,"Captain, Elite Fighter, Tank, Powerhouse"
+JUN-099,Dominic Hargan,Jungle Fury,2008,Rhino,Rhino Ranger,Sixth,Elite,92,94,95,84,96,97,98,79,87,92,89,98,95,Flex,True,Post-MMPR Era,special,95,JUNGLE_FURY,6,3,0,94,96,88,93,"Elite Fighter, Tank"
+RPM-100,Scott Truman,RPM,2009,Red,RPM Red,Leader,Elite,92,95,91,88,95,95,93,84,94,94,91,98,95,Leadership,True,Post-MMPR Era,leadership,94,RPM,6,3,0,93,94,91,95,"Captain, Elite Fighter"
+RPM-101,Flynn McAllistair,RPM,2009,Blue,RPM Blue,Specialist,Elite,92,94,88,89,94,95,92,91,88,95,91,98,94,Special,True,Post-MMPR Era,special,94,RPM,6,3,0,92,93,93,94,Balanced
+RPM-102,Summer Landsdown,RPM,2009,Yellow,RPM Yellow,Specialist,Elite,91,93,84,92,93,94,89,87,88,95,90,97,93,Special,True,Post-MMPR Era,special,93,RPM,6,3,0,90,91,91,93,Balanced
+RPM-103,Ziggy Grover,RPM,2009,Green,RPM Green,Support,Rare,89,90,82,91,91,93,87,84,85,96,88,96,92,Team Support,True,Post-MMPR Era,teamwork,96,RPM,6,3,0,89,89,90,91,Glue
+RPM-104,Dillon,RPM,2009,Black,RPM Black,Fighter,Elite,93,94,95,91,98,97,96,80,88,91,95,99,97,Combat,True,Post-MMPR Era,combat,98,RPM,6,3,0,96,96,88,96,"Elite Fighter, Tank, Powerhouse"
+RPM-105,Gem,RPM,2009,Gold,RPM Gold,Fighter,Elite,93,94,92,94,97,98,94,82,88,93,91,98,96,Combat,True,Post-MMPR Era,combat,97,RPM,6,3,0,95,94,90,94,"Elite Fighter, Powerhouse"
+RPM-106,Gemma,RPM,2009,Silver,RPM Silver,Fighter,Elite,93,94,92,94,97,98,94,82,88,93,91,98,96,Combat,True,Post-MMPR Era,combat,97,RPM,6,3,0,95,94,90,94,"Elite Fighter, Powerhouse"
+SAM-107,Jayden Shiba,Samurai,2011,Red,Samurai Red,Leader,Elite,93,96,91,88,95,97,93,82,96,94,90,98,95,Leadership,True,Neo-Saban Era,leadership,96,SAMURAI,6,3,0,93,94,91,95,"Captain, Elite Fighter"
+SAM-108,Kevin Douglas,Samurai,2011,Blue,Samurai Blue,Specialist,Rare,89,91,85,87,91,96,89,83,85,94,86,95,92,Special,True,Neo-Saban Era,special,92,SAMURAI,6,3,0,90,90,89,90,Balanced
+SAM-109,Mike Fernandez,Samurai,2011,Green,Samurai Green,Fighter,Elite,90,91,87,92,93,95,89,78,84,94,87,96,91,Combat,True,Neo-Saban Era,combat,93,SAMURAI,6,3,0,91,91,87,91,Balanced
+SAM-110,Emily Stewart,Samurai,2011,Yellow,Samurai Yellow,Specialist,Rare,89,91,82,90,92,95,88,82,86,95,86,97,92,Special,True,Neo-Saban Era,special,92,SAMURAI,6,3,0,89,90,89,91,Balanced
+SAM-111,Mia Watanabe,Samurai,2011,Pink,Samurai Pink,Support,Rare,89,90,79,88,89,94,86,87,85,96,86,96,91,Team Support,True,Neo-Saban Era,teamwork,96,SAMURAI,6,3,0,87,88,91,90,Glue
+SAM-112,Antonio Garcia,Samurai,2011,Gold,Gold Samurai,Sixth,Elite,94,96,92,95,97,99,94,90,91,92,90,98,97,Flex,True,Neo-Saban Era,special,97,SAMURAI,6,3,0,96,94,92,94,"Elite Fighter, Speed, Powerhouse"
+SAM-113,Lauren Shiba,Samurai,2011,Red,Red Samurai (Female Red),Leader,Elite,94,97,92,91,96,98,94,85,95,94,92,99,97,Leadership,True,Neo-Saban Era,leadership,95,SAMURAI,6,3,0,94,95,92,96,"Captain, Elite Fighter, Powerhouse"
+MEG-114,Troy Burrows,Megaforce,2013,Red,Megaforce Red,Leader,Elite,90,93,88,88,92,91,89,82,91,91,86,96,92,Leadership,True,Neo-Saban Era,leadership,91,MEGAFORCE,6,3,0,90,91,88,91,Balanced
+MEG-115,Noah Carver,Megaforce,2013,Blue,Megaforce Blue,Genius,Rare,88,90,79,86,88,90,85,97,85,94,85,95,92,Intelligence,True,Neo-Saban Era,intelligence,97,MEGAFORCE,6,3,0,85,87,93,89,Genius
+MEG-116,Jake Holling,Megaforce,2013,Black,Megaforce Black,Fighter,Rare,89,90,88,89,93,92,90,78,84,94,85,96,91,Combat,True,Neo-Saban Era,combat,93,MEGAFORCE,6,3,0,91,91,87,90,Balanced
+MEG-117,Emma Goodall,Megaforce,2013,Pink,Megaforce Pink,Specialist,Rare,88,90,80,91,90,92,86,84,86,95,84,96,91,Special,True,Neo-Saban Era,special,91,MEGAFORCE,6,3,0,88,88,90,90,Balanced
+MEG-118,Gia Moran,Megaforce,2013,Yellow,Megaforce Yellow,Specialist,Elite,90,92,83,93,94,94,88,83,88,95,86,97,93,Special,True,Neo-Saban Era,special,93,MEGAFORCE,6,3,0,91,90,90,92,Balanced
+MEG-119,Orion,Megaforce,2013,Silver,Silver Megaforce,Sixth,Elite,93,95,91,94,96,97,94,87,89,91,90,98,96,Flex,True,Neo-Saban Era,special,96,MEGAFORCE,6,3,0,94,94,90,94,"Elite Fighter, Powerhouse"
+DIN-120,Tyler Navarro,Dino Charge,2015,Red,Dino Charge Red,Leader,Elite,92,95,91,91,95,95,94,78,92,94,89,99,95,Leadership,True,Neo-Saban Era,leadership,92,DINO_CHARGE,6,3,0,93,94,89,94,"Captain, Elite Fighter"
+DIN-121,Koda,Dino Charge,2015,Blue,Dino Charge Blue,Tank,Elite,91,92,96,83,95,94,98,72,84,95,92,99,95,Power/Defense,True,Neo-Saban Era,durability,98,DINO_CHARGE,6,3,0,93,97,86,94,"Elite Fighter, Tank"
+DIN-122,Chase Randall,Dino Charge,2015,Black,Dino Charge Black,Specialist,Elite,92,94,87,95,95,96,90,84,87,95,88,97,94,Special,True,Neo-Saban Era,special,94,DINO_CHARGE,6,3,0,93,92,90,92,"Elite Fighter, Speed"
+DIN-123,Shelby Watkins,Dino Charge,2015,Pink,Dino Charge Pink,Specialist,Elite,91,93,82,91,93,95,90,86,88,96,88,98,94,Special,True,Neo-Saban Era,special,94,DINO_CHARGE,6,3,0,90,91,91,92,Glue
+DIN-124,Riley Griffin,Dino Charge,2015,Green,Dino Charge Green,Fighter,Elite,92,93,88,93,95,96,91,83,87,95,88,98,94,Combat,True,Neo-Saban Era,combat,95,DINO_CHARGE,6,3,0,93,92,90,93,Elite Fighter
+DIN-125,Sir Ivan of Zandar,Dino Charge,2015,Gold,Gold Dino Charge,Sixth,Legendary,95,97,93,90,96,98,95,91,94,92,99,99,98,Flex,True,Neo-Saban Era,special,98,DINO_CHARGE,6,3,0,95,95,93,98,"Captain, Elite Fighter, Tank, Powerhouse, Veteran"
+DIN-126,James Navarro,Dino Charge,2015,Aqua,Aqua Ranger,Sixth,Elite,93,95,92,89,95,96,95,87,89,91,94,98,96,Flex,True,Neo-Saban Era,special,96,DINO_CHARGE,6,3,0,93,94,90,95,"Elite Fighter, Tank, Powerhouse"
+NIN-127,Brody Romero,Ninja Steel,2017,Red,Ninja Steel Red,Leader,Elite,91,94,89,94,94,95,91,80,91,94,86,97,93,Leadership,True,Neo-Saban Era,leadership,91,NINJA_STEEL,6,3,0,93,92,89,92,Balanced
+NIN-128,Preston Tien,Ninja Steel,2017,Blue,Ninja Steel Blue,Genius,Elite,90,92,80,91,91,94,86,94,84,95,87,96,93,Intelligence,True,Neo-Saban Era,intelligence,94,NINJA_STEEL,6,3,0,88,88,93,90,Balanced
+NIN-129,Sarah Thompson,Ninja Steel,2017,Pink,Ninja Steel Pink,Speedster,Elite,91,92,81,99,93,94,87,89,87,95,87,97,94,Speed,True,Neo-Saban Era,speed,99,NINJA_STEEL,6,3,0,90,89,92,92,Speed
+NIN-130,Calvin Maxwell,Ninja Steel,2017,Yellow,Ninja Steel Yellow,Specialist,Rare,89,91,84,92,91,94,89,82,85,95,86,96,92,Special,True,Neo-Saban Era,special,92,NINJA_STEEL,6,3,0,90,90,89,90,Balanced
+NIN-131,Hayley Foster,Ninja Steel,2017,White,Ninja Steel White,Specialist,Elite,91,93,83,93,93,95,90,86,88,96,87,98,94,Special,True,Neo-Saban Era,special,94,NINJA_STEEL,6,3,0,90,91,91,92,Glue
+NIN-132,Levi Weston,Ninja Steel,2017,Gold,Ninja Steel Gold,Sixth,Elite,93,95,91,95,96,98,93,87,90,93,91,98,96,Flex,True,Neo-Saban Era,special,96,NINJA_STEEL,6,3,0,95,94,91,94,"Elite Fighter, Speed, Powerhouse"
+NIN-133,Mick Kanic,Ninja Steel,2017,Red,Ninja Steel Red (Alien Ranger),Sixth,Elite,93,95,92,92,95,97,94,86,90,92,93,98,96,Flex,True,Neo-Saban Era,special,96,NINJA_STEEL,6,3,0,94,94,91,95,"Elite Fighter, Powerhouse"
+BEA-134,Devon Daniels,Beast Morphers,2019,Red,Beast Morphers Red,Leader,Elite,92,95,90,92,94,94,92,83,91,94,87,98,94,Leadership,True,Neo-Saban Era,leadership,91,BEAST_MORPHERS,6,3,0,92,93,90,93,Balanced
+BEA-135,Ravi Shaw,Beast Morphers,2019,Blue,Beast Morphers Blue,Fighter,Elite,91,92,91,88,95,94,94,81,87,95,88,98,94,Combat,True,Neo-Saban Era,combat,95,BEAST_MORPHERS,6,3,0,93,94,89,93,Elite Fighter
+BEA-136,Zoey Reeves,Beast Morphers,2019,Yellow,Beast Morphers Yellow,Specialist,Elite,91,93,84,94,93,94,89,85,87,96,87,98,94,Special,True,Neo-Saban Era,special,94,BEAST_MORPHERS,6,3,0,91,91,91,92,Glue
+BEA-137,Nate Silva,Beast Morphers,2019,Gold,Beast Morphers Gold,Genius,Elite,92,94,86,89,93,96,90,99,90,96,88,97,96,Intelligence,True,Neo-Saban Era,intelligence,99,BEAST_MORPHERS,6,3,0,91,92,96,92,"Genius, Powerhouse, Glue"
+BEA-138,Steel,Beast Morphers,2019,Silver,Beast Morphers Silver,Sixth,Elite,94,96,91,94,96,98,94,90,89,94,90,98,96,Flex,True,Neo-Saban Era,special,96,BEAST_MORPHERS,6,3,0,95,94,92,94,"Elite Fighter, Powerhouse"
+DIN-139,Zayto,Dino Fury,2021,Red,Dino Fury Red,Leader,Legendary,95,98,93,91,96,96,95,86,95,95,99,99,97,Leadership,True,Hasbro Era,leadership,95,DINO_FURY,6,3,0,94,95,93,98,"Captain, Elite Fighter, Tank, Powerhouse, Veteran"
+DIN-140,Ollie Akana,Dino Fury,2021,Blue,Dino Fury Blue,Genius,Elite,92,94,85,89,93,95,90,98,89,95,94,97,95,Intelligence,True,Hasbro Era,intelligence,98,DINO_FURY,6,3,0,90,91,95,94,Genius
+DIN-141,Izzy Garcia,Dino Fury,2021,Green,Dino Fury Green,Specialist,Elite,93,95,86,96,95,96,92,86,91,97,92,99,95,Special,True,Hasbro Era,special,95,DINO_FURY,6,3,0,93,93,92,95,"Elite Fighter, Speed, Glue"
+DIN-142,Javi Garcia,Dino Fury,2021,Black,Dino Fury Black,Specialist,Elite,92,94,87,91,93,95,92,90,88,96,91,98,94,Special,True,Hasbro Era,special,94,DINO_FURY,6,3,0,91,93,93,93,Glue
+DIN-143,Amelia Jones,Dino Fury,2021,Pink,Dino Fury Pink,Leader,Elite,92,95,84,93,94,95,91,87,91,96,91,99,95,Leadership,True,Hasbro Era,leadership,91,DINO_FURY,6,3,0,91,92,92,94,Glue
+DIN-144,Aiyon,Dino Fury,2021,Gold,Gold Dino Fury,Sixth,Legendary,95,97,94,93,97,98,96,89,93,95,96,99,98,Flex,True,Hasbro Era,special,98,DINO_FURY,6,3,0,96,96,94,97,"Captain, Elite Fighter, Tank, Powerhouse, Veteran"
+DIN-145,Mucus,Dino Fury,2021,Void,Dino Fury Ally Ranger,Specialist,Common,79,81,72,84,78,80,76,86,72,88,70,91,80,Special,True,Hasbro Era,special,80,DINO_FURY,6,3,0,77,80,83,79,Balanced
+COS-146,Amelia Jones,Cosmic Fury,2023,Red,Cosmic Fury Red,Leader,Legendary,95,98,90,95,96,97,94,89,97,97,94,99,97,Leadership,True,Hasbro Era,leadership,97,COSMIC_FURY,6,3,0,94,95,95,97,"Captain, Elite Fighter, Speed, Powerhouse, Glue"
+COS-147,Ollie Akana,Cosmic Fury,2023,Blue,Cosmic Fury Blue,Genius,Elite,94,96,87,92,95,97,93,99,91,96,95,98,97,Intelligence,True,Hasbro Era,intelligence,99,COSMIC_FURY,6,3,0,93,93,96,95,"Elite Fighter, Genius, Powerhouse, Glue"
+COS-148,Izzy Garcia,Cosmic Fury,2023,Green,Cosmic Fury Green,Specialist,Legendary,95,97,88,98,97,98,95,88,94,98,94,99,97,Special,True,Hasbro Era,special,97,COSMIC_FURY,6,3,0,95,95,94,96,"Captain, Elite Fighter, Speed, Tank, Powerhouse, Glue"
+COS-149,Javi Garcia,Cosmic Fury,2023,Black,Cosmic Fury Black,Specialist,Elite,94,96,89,94,95,97,94,92,91,97,93,99,96,Special,True,Hasbro Era,special,96,COSMIC_FURY,6,3,0,93,94,94,95,"Elite Fighter, Powerhouse, Glue"
+COS-150,Aiyon,Cosmic Fury,2023,Gold,Cosmic Fury Gold,Sixth,Legendary,97,99,96,96,98,99,98,91,95,97,99,99,99,Flex,True,Hasbro Era,special,99,COSMIC_FURY,6,3,0,97,98,95,98,"Captain, Elite Fighter, Speed, Tank, Powerhouse, Glue, Veteran"
+COS-151,Fern,Cosmic Fury,2023,Orange,Cosmic Fury Orange,Specialist,Elite,93,95,87,94,95,97,93,88,91,97,91,99,96,Special,True,Hasbro Era,special,96,COSMIC_FURY,6,3,0,93,94,93,95,"Elite Fighter, Powerhouse, Glue"
+COS-152,Zayto,Cosmic Fury,2023,Zenith,Zenith Ranger,Legend,Legendary,98,99,99,98,99,99,99,93,99,99,99,99,99,Flex,True,Hasbro Era,special,99,COSMIC_FURY,6,3,0,99,99,97,99,"Captain, Elite Fighter, Speed, Tank, Powerhouse, Glue, Veteran"
+COS-153,Billy Cranston,Cosmic Fury,2023,Blue,Cosmic Fury Blue,Genius,Legendary,96,98,92,88,94,97,96,100,96,99,100,99,99,Intelligence,True,Hasbro Era,intelligence,100,COSMIC_FURY,6,3,0,93,96,99,98,"Captain, Genius, Tank, Powerhouse, Glue, Veteran"
+COS-154,Heckyl,Cosmic Fury,2023,Dark,Dark Ranger,Sixth,Elite,94,96,94,92,97,98,96,88,89,92,95,99,98,Flex,True,Hasbro Era,special,98,COSMIC_FURY,6,3,0,96,96,92,96,"Elite Fighter, Tank, Powerhouse"

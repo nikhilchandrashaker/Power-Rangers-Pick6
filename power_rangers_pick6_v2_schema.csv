@@ -1,0 +1,9 @@
+field,purpose,scale
+overall,Main player strength used in team scoring,0-99
+offense_score,Power/combat/weapon/speed blend,0-99
+defense_score,Durability/power/courage/teamwork blend,0-99
+support_score,Intelligence/teamwork/special/leadership blend,0-99
+clutch_score,Courage/experience/combat/leadership blend,0-99
+archetype_tags,UI-friendly player tags,text
+same_team_synergy,Pair bonus when two Rangers share a TV team,6
+same_era_synergy,Pair bonus for Rangers from same franchise era,3
